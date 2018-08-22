@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import { Menu, Header, Card, Image } from 'semantic-ui-react';
-import { Link } from 'react-router-dom';
-import classic from '../images/classic.png';
+import { Card, Image } from 'semantic-ui-react';
 import wax from '../images/wax.jpg';
 import nails from '../images/nails.jpg';
 import lashext from '../images/lashext.jpg'
